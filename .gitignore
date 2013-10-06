@@ -1,13 +1,11 @@
-# Bootstrap
-app/bootstrap*
+.DS_Store
+*.swp
+*.bak
 
-# Symfony directories
-vendor/*
-*/logs/*
-*/cache/*
-web/uploads/*
-web/bundles/*
+/nbproject/private/
 
-# Configuration files
-app/config/parameters.ini
-app/config/parameters.yml
+/bin/
+/build/
+
+/vendor/
+/cache.properties
